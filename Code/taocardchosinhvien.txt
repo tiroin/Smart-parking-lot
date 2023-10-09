@@ -1,0 +1,10 @@
+   Card card1("12345678", "Nguyen Van Quy", "BIDV", 106220232,1030358533,100000);
+   Card card2("999999999" , "Nguyen Trong Nhan", "Vietcombank", 106220229,20101000000,8000);
+   Card card3("111111111","Nguyen Thi Uyen Phuong" ,"Agribank",106220231,111155554321,2000000 );
+   Card card4("222222222", "Le Duy Hoang", "MBbank" , 106220252 , 9876543210 , 123);
+   Card card5("333333333", "Huynh Cong Huy","Vietcombank", 106220253, 887766554433, 5000);
+   Card card6("444444444" , "Tran Dang Bach", "BIDV", 106220244,1518556699,800000 );
+   Card card7("555555555", "Tran Viet Thang", "Vbank",106220234,1478523639,200);
+   Card card8("666666666" , "Kim Gia Bao", "BaoNhaBank",106220245,2233445566,860100 );
+   Card card9("777777777","Trinh Anh Nhat","Vbank",106220230,10101010101,88888);
+   Card card10("888888888";"Ho Nguyen Tam","DUTbank",106220233,9999911111,9999999);

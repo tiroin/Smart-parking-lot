@@ -1,0 +1,60 @@
+
+1.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Mon May 29 21:32:21 2023
+Ra:  Mon May 29 21:33:01 2023
+
+2.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Mon May 29 21:32:21 2023
+Ra:  Mon May 29 21:33:14 2023
+
+3.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Mon May 29 21:32:21 2023
+Ra:  Mon May 29 21:33:34 2023
+
+4.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Mon May 29 21:32:21 2023
+Ra:  Mon May 29 21:33:48 2023
+
+* Tong tien cua ca truc la: 4000
+* Tong tien cua ca truc la: 0
+* Tong tien cua ca truc la: 0
+* Tong tien cua ca truc la: 0
+* Tong tien cua ca truc la: 0
+1.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Mon May 29 21:41:25 2023
+Ra:  Mon May 29 21:41:41 2023
+
+* Tong tien cua ca truc la: 1000
+1.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Mon May 29 21:44:18 2023
+Ra:  Mon May 29 21:44:33 2023
+
+2.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Mon May 29 21:44:18 2023
+Ra:  Mon May 29 21:45:00 2023
+
+1.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Mon May 29 21:46:21 2023
+Ra:  Mon May 29 21:46:40 2023
+
+2.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Mon May 29 21:46:21 2023
+Ra:  Mon May 29 21:47:03 2023
+
+1.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Fri Jun 02 19:40:25 2023
+Ra:  Fri Jun 02 19:41:54 2023
+
+2.(Tran Dang Bach,xedap,khong co)				1000
+Vao: Fri Jun 02 19:42:18 2023
+Ra:  Fri Jun 02 19:43:48 2023
+
+1.(Huynh Cong Huy,xedap,khong co)				1000
+Vao: Fri Jun 02 19:47:42 2023
+Ra:  Fri Jun 02 19:49:05 2023
+
+2.(Nguyen Van Quy,xemay,f1)				1000
+Vao: Fri Jun 02 19:49:25 2023
+Ra:  Fri Jun 02 19:50:31 2023
+
+* Tong tien cua ca truc la: 2000
